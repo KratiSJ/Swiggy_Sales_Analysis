@@ -29,26 +29,26 @@ KPIs (Key Metrics).
 ## Rating Count
 
 # Analysis & Visualizations
-## Sales Trends
-### Monthly Sales Trends
-### Daily Sales Trends
-### Weekly Trend Analysis
-## Category Analysis
-### Veg vs Non-Veg Sales Comparison
-## Geographic Analysis
-### Sales by State (Map Visualization)
-### Top 5 Cities by Sales
-## Performance Insights
-### Quarterly Performance Summary
+###1. Sales Trends
+#### Monthly Sales Trends
+#### Daily Sales Trends
+#### Weekly Trend Analysis
+###2. Category Analysis
+#### Veg vs Non-Veg Sales Comparison
+###3. Geographic Analysis
+#### Sales by State (Map Visualization)
+#### Top 5 Cities by Sales
+###4. Performance Insights
+#### Quarterly Performance Summary
    
 # Tools & Technologies
-  Python 
-  Pandas
-  NumPy
-  Matplotlib
-  Seaborn
-  Jupyter Notebook
-
+  Python,
+  Pandas,
+  NumPy,
+  Matplotlib,
+  Seaborn,
+  Jupyter Notebook.
+  
 # Project Workflow
   Data Import & Cleaning,
   Data Type Checking & Preparation,
