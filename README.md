@@ -30,16 +30,16 @@ KPIs (Key Metrics).
 
 # Analysis & Visualizations
 ### 1. Sales Trends
-#### Monthly Sales Trends
-#### Daily Sales Trends
-#### Weekly Trend Analysis
+####   Monthly Sales Trends
+####   Daily Sales Trends
+####   Weekly Trend Analysis
 ### 2. Category Analysis
-#### Veg vs Non-Veg Sales Comparison
+####   Veg vs Non-Veg Sales Comparison
 ### 3. Geographic Analysis
-#### Sales by State (Map Visualization)
-#### Top 5 Cities by Sales
+####   Sales by State (Map Visualization)
+####   Top 5 Cities by Sales
 ### 4. Performance Insights
-#### Quarterly Performance Summary
+####   Quarterly Performance Summary
    
 # Tools & Technologies
   Python,
