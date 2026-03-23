@@ -1,17 +1,17 @@
 # Swiggy_Sales_Analysis
-# Data Analysis Project using Python
-# Project Overview
+## Data Analysis Project using Python
+## Project Overview
 This project focuses on analyzing Swiggy sales data to extract meaningful business insights such as sales trends, customer behavior, and performance across different regions and food categories.
 The analysis helps understand how sales vary over time, location, and preferences, enabling better decision-making.
 
-# Key Objectives
+## Key Objectives
 Analyze overall sales performance
 Identify trends in daily & monthly orders
 Compare Veg vs Non-Veg sales
 Evaluate city-wise and state-wise performance
 Track customer ratings and order patterns
 
-# Dataset Features
+## Dataset Features
 The dataset includes:
 Order Date,
 City / State,
@@ -21,12 +21,12 @@ Sales Value,
 Orders Count,
 KPIs (Key Metrics).
 
-# The following key performance indicators were calculated:
-## Total Sales
-## Total Orders
-## Average Rating
-## Average Order Value
-## Rating Count
+## The following key performance indicators were calculated:
+### Total Sales
+### Total Orders
+### Average Rating
+### Average Order Value
+### Rating Count
 
 # Analysis & Visualizations
 ### 1. Sales Trends
