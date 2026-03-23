@@ -73,5 +73,5 @@ Jupyter Notebook
   Aspiring Data Analyst
   Skilled in: Python | SQL | Power BI | Excel | Tableau
   Passionate about: Data Analysis, Visualization & Business Insights
-  🔗 GitHub: 
+  🔗 GitHub: https://github.com/KratiSJ
   🔗 LinkedIn: www.linkedin.com/in/krati-jain-data-analyst
