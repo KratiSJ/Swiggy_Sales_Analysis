@@ -64,7 +64,7 @@ Jupyter Notebook
   Ratings influence ordering patterns
   
 # How to Run the Project
-  git clone https://github.com/your-username/swiggy-sales-analysis.git
+  git clone https://github.com/KratiSJ/Swiggy_Sales_Analysis/blob/main/Sales_Data_Analysis.ipynb
   cd swiggy-sales-analysis
   jupyter notebook
 
