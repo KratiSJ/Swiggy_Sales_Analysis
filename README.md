@@ -83,11 +83,9 @@ The dataset includes:
 
 ## 🚀 How to Run the Project
 ```bash
-(https://github.com/KratiSJ/Swiggy_Sales_Analysis/blob/main/Sales_Data_Analysis.ipynb)
-cd swiggy-sales-analysis
+git clone https://github.com/KratiSJ/Swiggy_Sales_Analysis.git
+cd Swiggy_Sales_Analysis
 jupyter notebook
-```
-
 ---
 
 ## 👩‍💻 Author
