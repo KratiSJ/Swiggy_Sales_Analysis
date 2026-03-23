@@ -42,12 +42,12 @@ Rating Count
    Quarterly Performance Summary
    
 # Tools & Technologies
-Python 
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+  Python 
+  Pandas
+  NumPy
+  Matplotlib
+  Seaborn
+  Jupyter Notebook
 
 # Project Workflow
   Data Import & Cleaning
