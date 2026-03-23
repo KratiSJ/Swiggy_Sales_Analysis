@@ -57,11 +57,11 @@ KPIs (Key Metrics).
   Data Visualization,
   Insight Generation.
   
-# Key Insights
-## 1.Sales show strong variation across months and weeks
-## 2.Certain cities contribute significantly higher revenue
-## 3.Veg vs Non-Veg consumption shows clear preference trends
-## 4.Ratings influence ordering patterns
+ # Key Insights
+## 1. Sales show strong variation across months and weeks
+## 2. Certain cities contribute significantly higher revenue
+## 3. Veg vs Non-Veg consumption shows clear preference trends
+## 4. Ratings influence ordering patterns
   
 # How to Run the Project
   git clone https://github.com/KratiSJ/Swiggy_Sales_Analysis/blob/main/Sales_Data_Analysis.ipynb
